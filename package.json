@@ -11,5 +11,8 @@
   "devDependencies": {
     "@divriots/dockit-core": "^0.7.2",
     "lit": "^2.2.0"
+  },
+  "dependencies": {
+    "@divriots/style-dictionary-to-figma": "^0.1.1"
   }
 }
